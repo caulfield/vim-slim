@@ -1,7 +1,7 @@
 vim-slim
 ===
 
-slim syntax highlighting for vim.
+slim (and skim) syntax highlighting for vim.
 
 Install with pathogen
 ---------------------
